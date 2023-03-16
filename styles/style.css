@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(111, 51, 207);
+  font-family: 'Courier New', Courier, monospace;
+}
+body h2{
+  text-align: center;
+}
+body p{
+  text-align: center;
+}
+header{
+  text-align: center;
+}
+#information{
+  text-align: center;
+}
+.container{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+table{
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  text-align: center;
+}
+td, th{
+  border: 1px solid black;
+}
